@@ -5,4 +5,6 @@
 
 ## Ted and Alice, questions about the cyberverse
 
-what caliber do you think GitHub ACP rounds are??
+## what caliber do you think GitHub ACP rounds are??
+
+#### At least 105mm :)
